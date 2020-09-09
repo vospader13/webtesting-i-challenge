@@ -71,7 +71,7 @@ The following sections list information provided by the client about `items` and
 
 ## Stretch Problem
 
-This section is **optional** and not counted towards MVP. Start working on it after you're done with the main assignment.
+This section is  **optional** and not counted towards MVP. Start working on it after you're done with the main assignment.
 
 - Add a `get()` method to the `enhancer` object that takes an `item` and **returns a new item** with the `name` property modified according to the following rules:
   - if the enhancement level is 0, the the name is not modified.
